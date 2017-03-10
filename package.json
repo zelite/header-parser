@@ -1,0 +1,19 @@
+{
+  "name": "request-header-parser",
+  "version": "1.0.0",
+  "description": " I can get the IP address, language and operating system for my browser.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "header",
+    "parser"
+  ],
+  "author": "zelite",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.1",
+    "helmet": "^3.4.1"
+  }
+}
